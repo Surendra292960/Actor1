@@ -1,0 +1,3 @@
+G:\C#.NetPrograms\MyApplication\HelloWorld2\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld2.csproj.CoreCompileInputs.cache
+G:\C#.NetPrograms\MyApplication\HelloWorld2\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld2.AssemblyInfoInputs.cache
+G:\C#.NetPrograms\MyApplication\HelloWorld2\obj\Debug\netcoreapp2.1\win7-x64\HelloWorld2.AssemblyInfo.cs
